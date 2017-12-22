@@ -1,4 +1,4 @@
-package org.launchcode.models;
+package org.launchcode.controllers.models;
 
 /**
  * Created by LaunchCode
